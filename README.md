@@ -1,4 +1,9 @@
 ### Hi there 👋
+Helen Lyttle
+
+Pronouns: she/her
+
+🌱 I’m currently learning all about coding, and where it can take me...
 
 <!--
 **hlyttle/hlyttle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
