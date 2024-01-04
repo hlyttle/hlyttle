@@ -1,21 +1,12 @@
-### Hi there 👋
-Helen Lyttle
+### Hi, I'm Helen 👋🏻
+
+As a career-changer into data engineering, I see coding as a chance to combine my love of problem solving, language learning, and organisation.
+
+I recently completed an intensive, industry-led bootcamp with Northcoders, where I learned to work with a range of programming langauges—JavaScript, Python, SQL and more—gaining hands-on experience in data cleaning, transformation and visualisation.
+All of the projects I completed can be found through this GitHub profile; our final project, where we built an ETL pipeline using CI/CD and Agile methodologies, can be found [here](https://github.com/CavemanDan667/de-project).
+
+🌱 What I'm currently working on:
+* learning Jave and React
+* studying for the ISTQB Certified Tester Foundation Level 
 
 Pronouns: she/her
-
-🌱 I’m currently learning all about coding, and where it can take me...
-
-<!--
-**hlyttle/hlyttle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
