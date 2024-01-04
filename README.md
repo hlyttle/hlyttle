@@ -1,3 +1,5 @@
+#### [www.helenlyttle.com](https://www.helenlyttle.com)
+
 ### Hi, I'm Helen 👋🏻
 
 As a career-changer into data engineering, I see coding as a chance to combine my love of problem solving, language learning, and organisation.
@@ -7,6 +9,8 @@ All of the projects I completed can be found through this GitHub profile; our fi
 
 🌱 What I'm currently working on:
 * learning Java and React
-* studying for the ISTQB Certified Tester Foundation Level 
+* studying for the ISTQB Certified Tester Foundation Level
+
+Find me on LinkedIn [here](https://www.linkedin.com/in/helen-lyttle).
 
 Pronouns: she/her
